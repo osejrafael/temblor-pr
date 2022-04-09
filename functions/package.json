@@ -15,7 +15,7 @@
     "axios": "^0.19.2",
     "firebase-admin": "^8.9.2",
     "firebase-functions": "^3.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-cache": "^5.1.0",
     "puppeteer": "^2.1.0",
     "twit": "^2.2.11"
